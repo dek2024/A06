@@ -13,7 +13,10 @@ h3 {
 a:hover, a:focus {
   font-style: italic;
 }
-.image {
+img {
   float: left;
   margin: 10px; 
+}
+.pfooter{
+  text-align:center; 
 }
