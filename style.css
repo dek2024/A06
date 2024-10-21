@@ -13,7 +13,7 @@ h3 {
 a:hover, a:focus {
   font-style: italic;
 }
-img {
+.image {
   float: left;
   margin: 10px; 
 }
